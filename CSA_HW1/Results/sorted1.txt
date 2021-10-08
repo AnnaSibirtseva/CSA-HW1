@@ -1,0 +1,21 @@
+ ---- CONTAINER WITH SIZE 5 ---- 
+1. Animal Gregory with weight 120 grams. 
+It's quotient from name to weight is 6.125. 
+It's a beast and it's herbivores.
+ -------------------------- 
+2. Animal Sirius with weight 890 grams. 
+It's quotient from name to weight is 0.717978. 
+It's a bird and it's migratory.
+ -------------------------- 
+3. Animal Lilo with weight 587 grams. 
+It's quotient from name to weight is 0.681431. 
+It's a fish, and it lives in the ocean. 
+ -------------------------- 
+4. Animal Nina with weight 722 grams. 
+It's quotient from name to weight is 0.540166. 
+It's a bird and it's migratory.
+ -------------------------- 
+5. Animal Nick with weight 904 grams. 
+It's quotient from name to weight is 0.43031. 
+It's a beast and it's insectivores.
+ -------------------------- 
