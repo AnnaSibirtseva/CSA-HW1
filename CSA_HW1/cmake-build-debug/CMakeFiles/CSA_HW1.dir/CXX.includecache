@@ -6,47 +6,71 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/anias/CLionProjects/CSA_HW1/Animal.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Animal.cpp
+Animal.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Animal.h
+cstring
+-
+
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Animal.h
 fstream
 -
 iostream
 -
 Beast.h
-C:/Users/anias/CLionProjects/CSA_HW1/Beast.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Beast.h
 Fish.h
-C:/Users/anias/CLionProjects/CSA_HW1/Fish.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Fish.h
 Bird.h
-C:/Users/anias/CLionProjects/CSA_HW1/Bird.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Bird.h
 
-C:/Users/anias/CLionProjects/CSA_HW1/Beast.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Beast.cpp
+Beast.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Beast.h
+
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Beast.h
 fstream
 -
 iostream
 -
 
-C:/Users/anias/CLionProjects/CSA_HW1/Bird.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Bird.cpp
+Bird.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Bird.h
+
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Bird.h
 fstream
 -
 iostream
 -
 
-C:/Users/anias/CLionProjects/CSA_HW1/Container.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Container.cpp
+Container.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Container.h
+
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Container.h
 Animal.h
-C:/Users/anias/CLionProjects/CSA_HW1/Animal.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Animal.h
 
-C:/Users/anias/CLionProjects/CSA_HW1/Fish.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Fish.cpp
+Fish.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Fish.h
+
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Fish.h
 fstream
 -
 iostream
 -
 
-C:/Users/anias/CLionProjects/CSA_HW1/main.cpp
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/main.cpp
 iostream
 -
 string
 -
 ctime
 -
+cstring
+-
 Container.h
-C:/Users/anias/CLionProjects/CSA_HW1/Container.h
+/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Container.h
 

@@ -1,0 +1,277 @@
+ ---- CONTAINER WITH SIZE 69 ---- 
+1. Animal Kumprps with weight 19863 grams. 
+It's quotient from name to weight is 0.03796. 
+It's a fish, and it lives in the river. 
+ -------------------------- 
+2. Animal Dlms with weight 68565 grams. 
+It's quotient from name to weight is 0.00583388. 
+It's a bird and it's not migratory.
+ -------------------------- 
+3. Animal Xnfmmdp with weight 36777 grams. 
+It's quotient from name to weight is 0.0198494. 
+It's a bird and it's migratory.
+ -------------------------- 
+4. Animal Hnjtdbiv with weight 25146 grams. 
+It's quotient from name to weight is 0.0328084. 
+It's a fish, and it lives in the sea. 
+ -------------------------- 
+5. Animal Pvjkli with weight 38359 grams. 
+It's quotient from name to weight is 0.0162674. 
+It's a beast and it's carnivores.
+ -------------------------- 
+6. Animal Susyjuzo with weight 60986 grams. 
+It's quotient from name to weight is 0.0146263. 
+It's a bird and it's migratory.
+ -------------------------- 
+7. Animal Bivmddwpc with weight 17798 grams. 
+It's quotient from name to weight is 0.0521407. 
+It's a fish, and it lives in the ocean. 
+ -------------------------- 
+8. Animal Xvnk with weight 57736 grams. 
+It's quotient from name to weight is 0.00732645. 
+It's a beast and it's carnivores.
+ -------------------------- 
+9. Animal Jdidcyokb with weight 9283 grams. 
+It's quotient from name to weight is 0.0985673. 
+It's a beast and it's omnivores.
+ -------------------------- 
+10. Animal Xpj with weight 42804 grams. 
+It's quotient from name to weight is 0.00714886. 
+It's a bird and it's migratory.
+ -------------------------- 
+11. Animal Qyiqtw with weight 72451 grams. 
+It's quotient from name to weight is 0.00904059. 
+It's a beast and it's carnivores.
+ -------------------------- 
+12. Animal Vwkfbodry with weight 74226 grams. 
+It's quotient from name to weight is 0.0129065. 
+It's a fish, and it lives in the river. 
+ -------------------------- 
+13. Animal Fliqjpd with weight 96775 grams. 
+It's quotient from name to weight is 0.00737794. 
+It's a bird and it's migratory.
+ -------------------------- 
+14. Animal Xxwy with weight 26636 grams. 
+It's quotient from name to weight is 0.0168193. 
+It's a beast and it's insectivores.
+ -------------------------- 
+15. Animal Jsy with weight 86805 grams. 
+It's quotient from name to weight is 0.00357122. 
+It's a bird and it's not migratory.
+ -------------------------- 
+16. Animal Hldvek with weight 54635 grams. 
+It's quotient from name to weight is 0.0110918. 
+It's a beast and it's insectivores.
+ -------------------------- 
+17. Animal Dgllkmihk with weight 90557 grams. 
+It's quotient from name to weight is 0.0101483. 
+It's a bird and it's not migratory.
+ -------------------------- 
+18. Animal Vhkwusaxb with weight 56434 grams. 
+It's quotient from name to weight is 0.0170642. 
+It's a beast and it's herbivores.
+ -------------------------- 
+19. Animal Nhfsylykw with weight 69827 grams. 
+It's quotient from name to weight is 0.0139631. 
+It's a beast and it's omnivores.
+ -------------------------- 
+20. Animal Kpwihtq with weight 20890 grams. 
+It's quotient from name to weight is 0.0356151. 
+It's a beast and it's omnivores.
+ -------------------------- 
+21. Animal Pjncmlvb with weight 365 grams. 
+It's quotient from name to weight is 2.26849. 
+It's a fish, and it lives in the sea. 
+ -------------------------- 
+22. Animal Otdkedqxn with weight 27748 grams. 
+It's quotient from name to weight is 0.0340925. 
+It's a fish, and it lives in the lake. 
+ -------------------------- 
+23. Animal Pohe with weight 35075 grams. 
+It's quotient from name to weight is 0.0112901. 
+It's a bird and it's not migratory.
+ -------------------------- 
+24. Animal Iaztw with weight 92451 grams. 
+It's quotient from name to weight is 0.00570032. 
+It's a beast and it's carnivores.
+ -------------------------- 
+25. Animal Hnrkzxn with weight 5624 grams. 
+It's quotient from name to weight is 0.134246. 
+It's a beast and it's herbivores.
+ -------------------------- 
+26. Animal Qarhq with weight 43398 grams. 
+It's quotient from name to weight is 0.0117287. 
+It's a beast and it's herbivores.
+ -------------------------- 
+27. Animal Jgemf with weight 65486 grams. 
+It's quotient from name to weight is 0.00746724. 
+It's a beast and it's omnivores.
+ -------------------------- 
+28. Animal Jhuyagx with weight 69618 grams. 
+It's quotient from name to weight is 0.010572. 
+It's a beast and it's herbivores.
+ -------------------------- 
+29. Animal Yrmyjvpki with weight 25964 grams. 
+It's quotient from name to weight is 0.0377831. 
+It's a bird and it's not migratory.
+ -------------------------- 
+30. Animal Mgvlqfzz with weight 7577 grams. 
+It's quotient from name to weight is 0.114161. 
+It's a beast and it's insectivores.
+ -------------------------- 
+31. Animal Ayqvo with weight 60009 grams. 
+It's quotient from name to weight is 0.00879868. 
+It's a fish, and it lives in the river. 
+ -------------------------- 
+32. Animal Urvjd with weight 72469 grams. 
+It's quotient from name to weight is 0.00721688. 
+It's a beast and it's carnivores.
+ -------------------------- 
+33. Animal Ixgdiwkh with weight 17806 grams. 
+It's quotient from name to weight is 0.0466697. 
+It's a fish, and it lives in the ocean. 
+ -------------------------- 
+34. Animal Rdw with weight 18529 grams. 
+It's quotient from name to weight is 0.0162448. 
+It's a beast and it's herbivores.
+ -------------------------- 
+35. Animal Wsxqls with weight 80362 grams. 
+It's quotient from name to weight is 0.00818795. 
+It's a beast and it's omnivores.
+ -------------------------- 
+36. Animal Zwb with weight 32299 grams. 
+It's quotient from name to weight is 0.00950494. 
+It's a beast and it's omnivores.
+ -------------------------- 
+37. Animal Aqoztrx with weight 99115 grams. 
+It's quotient from name to weight is 0.00767795. 
+It's a beast and it's insectivores.
+ -------------------------- 
+38. Animal Zgt with weight 46902 grams. 
+It's quotient from name to weight is 0.00658821. 
+It's a bird and it's not migratory.
+ -------------------------- 
+39. Animal Okoc with weight 91072 grams. 
+It's quotient from name to weight is 0.00434821. 
+It's a fish, and it lives in the ocean. 
+ -------------------------- 
+40. Animal Ncktjkm with weight 59621 grams. 
+It's quotient from name to weight is 0.0121098. 
+It's a beast and it's insectivores.
+ -------------------------- 
+41. Animal Jrofqnn with weight 22668 grams. 
+It's quotient from name to weight is 0.0323804. 
+It's a beast and it's carnivores.
+ -------------------------- 
+42. Animal Xdl with weight 58740 grams. 
+It's quotient from name to weight is 0.00503916. 
+It's a fish, and it lives in the lake. 
+ -------------------------- 
+43. Animal Malokfaw with weight 97140 grams. 
+It's quotient from name to weight is 0.00842084. 
+It's a beast and it's omnivores.
+ -------------------------- 
+44. Animal Pstdzj with weight 95437 grams. 
+It's quotient from name to weight is 0.00669552. 
+It's a beast and it's herbivores.
+ -------------------------- 
+45. Animal Bvzf with weight 86856 grams. 
+It's quotient from name to weight is 0.00469743. 
+It's a fish, and it lives in the ocean. 
+ -------------------------- 
+46. Animal Lzfwprdp with weight 57581 grams. 
+It's quotient from name to weight is 0.0148834. 
+It's a fish, and it lives in the sea. 
+ -------------------------- 
+47. Animal Wfsqkr with weight 11010 grams. 
+It's quotient from name to weight is 0.0579473. 
+It's a fish, and it lives in the sea. 
+ -------------------------- 
+48. Animal Hfrhka with weight 64016 grams. 
+It's quotient from name to weight is 0.00931017. 
+It's a bird and it's not migratory.
+ -------------------------- 
+49. Animal Ylfpdih with weight 73294 grams. 
+It's quotient from name to weight is 0.00982345. 
+It's a bird and it's not migratory.
+ -------------------------- 
+50. Animal Ddkv with weight 60561 grams. 
+It's quotient from name to weight is 0.00648932. 
+It's a bird and it's migratory.
+ -------------------------- 
+51. Animal Fvcm with weight 38621 grams. 
+It's quotient from name to weight is 0.0102535. 
+It's a beast and it's herbivores.
+ -------------------------- 
+52. Animal Jvxpviwkn with weight 53516 grams. 
+It's quotient from name to weight is 0.0183683. 
+It's a fish, and it lives in the lake. 
+ -------------------------- 
+53. Animal Qapvkn with weight 61962 grams. 
+It's quotient from name to weight is 0.0100868. 
+It's a fish, and it lives in the pond. 
+ -------------------------- 
+54. Animal Shn with weight 53239 grams. 
+It's quotient from name to weight is 0.00557862. 
+It's a fish, and it lives in the river. 
+ -------------------------- 
+55. Animal Mhzjzuuv with weight 75342 grams. 
+It's quotient from name to weight is 0.0117199. 
+It's a fish, and it lives in the lake. 
+ -------------------------- 
+56. Animal Sossgoc with weight 10236 grams. 
+It's quotient from name to weight is 0.0720008. 
+It's a fish, and it lives in the lake. 
+ -------------------------- 
+57. Animal Kimx with weight 1015 grams. 
+It's quotient from name to weight is 0.402956. 
+It's a bird and it's migratory.
+ -------------------------- 
+58. Animal Whuh with weight 85283 grams. 
+It's quotient from name to weight is 0.00483097. 
+It's a beast and it's carnivores.
+ -------------------------- 
+59. Animal Yniyfwtxc with weight 50036 grams. 
+It's quotient from name to weight is 0.0196059. 
+It's a beast and it's insectivores.
+ -------------------------- 
+60. Animal Oeuyqtpc with weight 8828 grams. 
+It's quotient from name to weight is 0.0971908. 
+It's a beast and it's herbivores.
+ -------------------------- 
+61. Animal Efmvjrtw with weight 31846 grams. 
+It's quotient from name to weight is 0.0267852. 
+It's a beast and it's insectivores.
+ -------------------------- 
+62. Animal Nycwzc with weight 51301 grams. 
+It's quotient from name to weight is 0.0124364. 
+It's a bird and it's not migratory.
+ -------------------------- 
+63. Animal Qzyf with weight 19960 grams. 
+It's quotient from name to weight is 0.0213427. 
+It's a bird and it's migratory.
+ -------------------------- 
+64. Animal Vvghrrzk with weight 77818 grams. 
+It's quotient from name to weight is 0.0111542. 
+It's a fish, and it lives in the pond. 
+ -------------------------- 
+65. Animal Ats with weight 89802 grams. 
+It's quotient from name to weight is 0.00329614. 
+It's a bird and it's migratory.
+ -------------------------- 
+66. Animal Wjnbzmzg with weight 56266 grams. 
+It's quotient from name to weight is 0.0152312. 
+It's a fish, and it lives in the pond. 
+ -------------------------- 
+67. Animal Osx with weight 26839 grams. 
+It's quotient from name to weight is 0.0116994. 
+It's a fish, and it lives in the pond. 
+ -------------------------- 
+68. Animal Wgxcyywrd with weight 88978 grams. 
+It's quotient from name to weight is 0.0110589. 
+It's a fish, and it lives in the lake. 
+ -------------------------- 
+69. Animal Txmskmyzf with weight 14096 grams. 
+It's quotient from name to weight is 0.0701617. 
+It's a fish, and it lives in the pond. 
+ -------------------------- 

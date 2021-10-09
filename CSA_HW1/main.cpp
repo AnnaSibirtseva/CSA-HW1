@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <ctime>
-#include <string>
+#include <cstring>
 #include "Container.h"
 
 //------------------------------------------------------------------------------

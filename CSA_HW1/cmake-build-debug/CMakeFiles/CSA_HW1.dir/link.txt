@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CSA_HW1.dir/Animal.cpp.o CMakeFiles/CSA_HW1.dir/Bird.cpp.o CMakeFiles/CSA_HW1.dir/Beast.cpp.o CMakeFiles/CSA_HW1.dir/Fish.cpp.o CMakeFiles/CSA_HW1.dir/Container.cpp.o CMakeFiles/CSA_HW1.dir/main.cpp.o -o CSA_HW1 

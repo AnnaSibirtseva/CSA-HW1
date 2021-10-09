@@ -1,13 +1,11 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSA_HW1.dir/Animal.cpp.obj"
-  "CMakeFiles/CSA_HW1.dir/Beast.cpp.obj"
-  "CMakeFiles/CSA_HW1.dir/Bird.cpp.obj"
-  "CMakeFiles/CSA_HW1.dir/Container.cpp.obj"
-  "CMakeFiles/CSA_HW1.dir/Fish.cpp.obj"
-  "CMakeFiles/CSA_HW1.dir/main.cpp.obj"
-  "CSA_HW1.exe"
-  "CSA_HW1.exe.manifest"
-  "CSA_HW1.lib"
+  "CMakeFiles/CSA_HW1.dir/Animal.cpp.o"
+  "CMakeFiles/CSA_HW1.dir/Beast.cpp.o"
+  "CMakeFiles/CSA_HW1.dir/Bird.cpp.o"
+  "CMakeFiles/CSA_HW1.dir/Container.cpp.o"
+  "CMakeFiles/CSA_HW1.dir/Fish.cpp.o"
+  "CMakeFiles/CSA_HW1.dir/main.cpp.o"
+  "CSA_HW1"
   "CSA_HW1.pdb"
 )
 

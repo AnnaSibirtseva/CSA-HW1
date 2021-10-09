@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/anias/CLionProjects/CSA_HW1/Animal.cpp" "C:/Users/anias/CLionProjects/CSA_HW1/cmake-build-debug/CMakeFiles/CSA_HW1.dir/Animal.cpp.obj"
-  "C:/Users/anias/CLionProjects/CSA_HW1/Beast.cpp" "C:/Users/anias/CLionProjects/CSA_HW1/cmake-build-debug/CMakeFiles/CSA_HW1.dir/Beast.cpp.obj"
-  "C:/Users/anias/CLionProjects/CSA_HW1/Bird.cpp" "C:/Users/anias/CLionProjects/CSA_HW1/cmake-build-debug/CMakeFiles/CSA_HW1.dir/Bird.cpp.obj"
-  "C:/Users/anias/CLionProjects/CSA_HW1/Container.cpp" "C:/Users/anias/CLionProjects/CSA_HW1/cmake-build-debug/CMakeFiles/CSA_HW1.dir/Container.cpp.obj"
-  "C:/Users/anias/CLionProjects/CSA_HW1/Fish.cpp" "C:/Users/anias/CLionProjects/CSA_HW1/cmake-build-debug/CMakeFiles/CSA_HW1.dir/Fish.cpp.obj"
-  "C:/Users/anias/CLionProjects/CSA_HW1/main.cpp" "C:/Users/anias/CLionProjects/CSA_HW1/cmake-build-debug/CMakeFiles/CSA_HW1.dir/main.cpp.obj"
+  "/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Animal.cpp" "/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/cmake-build-debug/CMakeFiles/CSA_HW1.dir/Animal.cpp.o"
+  "/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Beast.cpp" "/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/cmake-build-debug/CMakeFiles/CSA_HW1.dir/Beast.cpp.o"
+  "/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Bird.cpp" "/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/cmake-build-debug/CMakeFiles/CSA_HW1.dir/Bird.cpp.o"
+  "/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Container.cpp" "/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/cmake-build-debug/CMakeFiles/CSA_HW1.dir/Container.cpp.o"
+  "/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/Fish.cpp" "/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/cmake-build-debug/CMakeFiles/CSA_HW1.dir/Fish.cpp.o"
+  "/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/main.cpp" "/mnt/c/Users/pan26/Documents/GitHub/АНЯСТАННЫЙПРОЕКТСТРАШНО-HW1/CSA_HW1/cmake-build-debug/CMakeFiles/CSA_HW1.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
