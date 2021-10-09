@@ -1,5 +1,5 @@
 #include "Animal.h"
-#include "ctype.h"
+#include <cstring>
 
 //------------------------------------------------------------------------------
 // ---------------- CPP FILE OF PARENT STRUCT 'ANIMAL' -------------------------
@@ -9,7 +9,7 @@
 double Quotient(Animal &animal) {
     // Sum of the codes of an unencrypted string 'name'.
     double sum = 0;
-    for (int i = 0; i < strlen(animal.name); ++i) {
+    for (int i = 0; i < std::strlen(animal.name); ++i) {
         sum += int(animal.name[i]);
     }
     return sum / animal.weight;
