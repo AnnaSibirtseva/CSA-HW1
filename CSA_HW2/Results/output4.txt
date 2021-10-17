@@ -1,0 +1,41 @@
+ ---- CONTAINER WITH SIZE 10 ---- 
+1. Animal ٩(｡•́‿•̀｡)۶ with weight 120 grams. 
+It's quotient from name to weight is -13.3333. 
+It's a beast and it's insectivores.
+ -------------------------- 
+2. Animal (๑˘︶˘๑) with weight 890 grams. 
+It's quotient from name to weight is -0.925843. 
+It's a bird and it's migratory.
+ -------------------------- 
+3. Animal \(★ω★)/ with weight 722 grams. 
+It's quotient from name to weight is -0.639889. 
+It's a bird and it's migratory.
+ -------------------------- 
+4. Animal (◕‿◕) with weight 587 grams. 
+It's quotient from name to weight is -1.06644. 
+It's a fish, and it lives in the pond. 
+ -------------------------- 
+5. Animal (´｡•ω•｡) with weight 904 grams. 
+It's quotient from name to weight is -1.20243. 
+It's a beast and it's omnivores.
+ -------------------------- 
+6. Animal (*°▽°*) with weight 331 grams. 
+It's quotient from name to weight is -0.97281. 
+It's a fish, and it lives in the ocean. 
+ -------------------------- 
+7. Animal (*¯︶¯*) with weight 9822 grams. 
+It's quotient from name to weight is -0.0289147. 
+It's a fish, and it lives in the river. 
+ -------------------------- 
+8. Animal ヽ(ー_ー)ノ with weight 65437 grams. 
+It's quotient from name to weight is -0.0115684. 
+It's a beast and it's insectivores.
+ -------------------------- 
+9. Animal (＿.＿*)Zzz with weight 12 grams. 
+It's quotient from name to weight is 16.9167. 
+It's a bird and it's migratory.
+ -------------------------- 
+10. Animal ଲ(ⓛωⓛ)ଲ with weight 984 grams. 
+It's quotient from name to weight is -0.970528. 
+It's a beast and it's herbivores.
+ -------------------------- 
