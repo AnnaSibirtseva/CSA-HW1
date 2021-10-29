@@ -1,0 +1,29 @@
+ ---- CONTAINER WITH SIZE 7 ---- 
+1. Animal Test with weight 100 grams.
+It's quotient from name to weight is 4.16. 
+It's a fish, and it lives in the pond.
+ -------------------------- 
+2. Animal Incorrect with weight 300 grams.
+It's quotient from name to weight is 3.12333. 
+It's a beast and it's an omnivore.
+ -------------------------- 
+3. Animal Numbers with weight 400 grams.
+It's quotient from name to weight is 1.83. 
+It's a beast and it's an omnivore.
+ -------------------------- 
+4. Animal For with weight 200 grams.
+It's quotient from name to weight is 1.475. 
+It's a bird and it's migratory.
+ -------------------------- 
+5. Animal Section with weight 700 grams.
+It's quotient from name to weight is 1.03571. 
+It's a fish, and it lives in the pond.
+ -------------------------- 
+6. Animal Enums with weight 600 grams.
+It's quotient from name to weight is 0.86667. 
+It's a fish, and it lives in the pond.
+ -------------------------- 
+7. Animal In with weight 500 grams.
+It's quotient from name to weight is 0.366. 
+It's a bird and it's migratory.
+ -------------------------- 

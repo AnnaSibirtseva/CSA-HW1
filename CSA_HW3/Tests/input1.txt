@@ -1,0 +1,6 @@
+5
+1 Gregory 120 3
+2 Sirius 890 1
+2 Nina 722 2
+3 Lilo 587 5
+1 Nick 904 4
