@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/anias/CLionProjects/CSA_HW5/Book.cpp
+string
+-
+iostream
+-
+thread
+-
+
+C:/Users/anias/CLionProjects/CSA_HW5/main.cpp
+ctime
+-
+fstream
+-
+iostream
+-
+vector
+-
+utility
+-
+algorithm
+-
+string
+-
+cstdlib
+-
+Book.cpp
+C:/Users/anias/CLionProjects/CSA_HW5/Book.cpp
+list
+-
+mutex
+-
+stack
+-
+thread
+-
+
