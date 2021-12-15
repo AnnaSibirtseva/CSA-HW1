@@ -52,7 +52,7 @@ void takeBook(int booksCounter, int booksCount) {
         book.printMove(row, bookcase, std::this_thread::get_id());
         locker.unlock();
         // Taking notes ia hard, so now we sleep for a couple of seconds.
-        std::this_thread::sleep_for(std::chrono::milliseconds(rand() % 420));
+        std::this_thread::sleep_for(std::chrono::milliseconds(rand() % 1000));
     }
 }
 
